@@ -1,0 +1,80 @@
+.navbar-inverse {
+    border-radius:0;
+}
+
+.color-white li {
+    font-weight:bold;
+    color:#fff;
+}
+
+.color-white li:hover {
+    color:#fff;
+}
+
+.color-white {
+    margin-left:5%;
+    color:#fff;
+}
+
+.glyphicon-login {
+    color:#fff;
+}
+
+i {
+    margin-top:15px;
+    color:rgb(0,0,0);
+}
+
+.heading {
+    text-align:center;
+    font-size:50px;
+    color:rgb(116, 157, 50);
+    font-weight:bold;
+}
+
+.border-bot {
+    border-bottom:2px dotted #ccc;
+}
+
+.heading-h1 {
+   color:#bdbdbd;
+}
+
+.recentposts_heading {
+    color:rgb(172, 117, 0);
+}
+
+
+#inputEmail, #inputPassword {
+    margin-bottom:10%;
+}
+
+#login_heading {
+    margin-bottom:20%;
+}
+
+.recentposts {
+    color:rgb(116, 157, 50);
+}
+
+.bg {
+    background-color:#bdbdbd;
+}
+
+.twit{
+    line-height:4.5em;
+}
+
+.fa-twitte {
+    margin-left:45%;
+}
+.footer_links {
+    margin-left:28%;
+}
+.list-inline li{
+    padding-left:1em;
+}
+
+.spacebottom {
+    margin-bottom:20px;
+}
